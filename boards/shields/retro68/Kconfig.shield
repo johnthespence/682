@@ -1,0 +1,2 @@
+config SHIELD_RETRO68
+    def_bool $(shields_list_contains,retro68)
